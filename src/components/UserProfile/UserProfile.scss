@@ -1,0 +1,23 @@
+.profile {
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+
+  &__info {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  &__label {
+    display: block;
+    margin-bottom: 8px;
+  }
+
+  &__data {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 111.49%;
+    color: #19274d;
+  }
+}
