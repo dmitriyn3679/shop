@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3ab537ad.chunk.css",
+    "main.js": "./static/js/main.d245a215.chunk.js",
+    "main.js.map": "./static/js/main.d245a215.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4724ab88.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4724ab88.js.map",
+    "static/js/2.d2ae4d2c.chunk.js": "./static/js/2.d2ae4d2c.chunk.js",
+    "static/js/2.d2ae4d2c.chunk.js.map": "./static/js/2.d2ae4d2c.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3ab537ad.chunk.css.map": "./static/css/main.3ab537ad.chunk.css.map",
+    "static/js/2.d2ae4d2c.chunk.js.LICENSE.txt": "./static/js/2.d2ae4d2c.chunk.js.LICENSE.txt",
+    "static/media/accessories.10ac1ca2.jpg": "./static/media/accessories.10ac1ca2.jpg",
+    "static/media/Category.scss": "./static/media/tablets.dced3085.png",
+    "static/media/BackButton.scss": "./static/media/arrow-right-disabled.e028d388.svg",
+    "static/media/arrow-right.4756c064.svg": "./static/media/arrow-right.4756c064.svg",
+    "static/media/Footer.scss": "./static/media/arrow-top.a61ad2d0.svg",
+    "static/media/Header.scss": "./static/media/profile.7d2a100e.svg",
+    "static/media/ProductSlider.scss": "./static/media/hover-button.578fabbe.svg",
+    "static/media/CartItem.scss": "./static/media/plus.dea15724.svg",
+    "static/media/google_icon.cf8cf055.svg": "./static/media/google_icon.cf8cf055.svg",
+    "static/media/Breadcrumbs.scss": "./static/media/home.e110292a.svg",
+    "static/media/Logo.scss": "./static/media/logo.c9417692.svg",
+    "static/media/profile.941c7b77.jpeg": "./static/media/profile.941c7b77.jpeg",
+    "static/media/Search.scss": "./static/media/search.eb670dd9.svg",
+    "static/media/slider-iphones.7c74e814.png": "./static/media/slider-iphones.7c74e814.png",
+    "static/media/tablets.a91bb4d9.jpg": "./static/media/tablets.a91bb4d9.jpg",
+    "static/media/tablets2.164b0b7c.jpg": "./static/media/tablets2.164b0b7c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4724ab88.js",
+    "static/js/2.d2ae4d2c.chunk.js",
+    "static/css/main.3ab537ad.chunk.css",
+    "static/js/main.d245a215.chunk.js"
+  ]
+}
